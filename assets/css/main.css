@@ -3718,13 +3718,13 @@ input, select, textarea {
 			color: rgba(244, 244, 255, 0.2);
 			display: inline-block;
 			line-height: 1;
-			margin-left: 1em;
+			margin-left: 2em;
 			padding-left: 1em;
 		}
 
 			#footer .copyright li:first-child {
 				border-left: 0;
-				margin-left: 0;
+				margin-left: 2em;
 				padding-left: 0;
 			}
 
@@ -3733,7 +3733,7 @@ input, select, textarea {
 		#footer .copyright li {
 			display: block;
 			border-left: 0;
-			margin-left: 0;
+			margin-left: 2em;
 			padding-left: 0;
 			line-height: inherit;
 		}
